@@ -11,7 +11,7 @@ VoiceAI-ChatGPT-Integration is an AI-based voice assistant project that leverage
 # Installation
 Clone the repository:
 
-- git clone https://github.com/yourusername/VoiceAI-ChatGPT-Integration.git
+- git clone https://github.com/mehmetkrvar/VoiceAI-ChatGPT-Integration.git
 
 Change the working directory:
 
@@ -40,4 +40,4 @@ Please make sure to update tests as appropriate.
 # License
 MIT
 
-Don't forget to replace "yourusername" with your actual GitHub username. This README provides an overview of the project, features, installation, and usage instructions, as well as guidelines for contributing and licensing information.
+Don't forget to replace "mehmetkrvar" with your actual GitHub username. This README provides an overview of the project, features, installation, and usage instructions, as well as guidelines for contributing and licensing information.
