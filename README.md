@@ -7,14 +7,16 @@ VoiceAI-ChatGPT-Integration is an AI-based voice assistant project that leverage
 - ChatGPT API integration for AI-based responses
 - Text to speech conversion using RapidAPI
 - Easy to use and customizable voice assistant
-- 
+
 # Installation
 Clone the repository:
 
 - git clone https://github.com/yourusername/VoiceAI-ChatGPT-Integration.git
+
 Change the working directory:
 
 - cd VoiceAI-ChatGPT-Integration
+
 Install the required dependencies:
 
 - pip install -r requirements.txt
@@ -23,10 +25,11 @@ Add your ChatGPT API key and RapidAPI key to the config.py file:
 
 - CHATGPT_API_KEY = "your_chatgpt_api_key"
 - RAPIDAPI_KEY = "your_rapidapi_key"
+
 Run the main script:
 
 - python main.py
-- 
+
 Speak your question when prompted and listen to the AI-generated response.
 
 # Contributing
