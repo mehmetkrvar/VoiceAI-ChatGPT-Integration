@@ -2,10 +2,12 @@
 VoiceAI-ChatGPT-Integration is an AI-based voice assistant project that leverages the SpeechRecognition library and RapidAPI to respond to users' voice queries with ChatGPT API and converts the obtained answers from text to speech.
 
 # Features
+
 - Voice input support using SpeechRecognition library
 - ChatGPT API integration for AI-based responses
 - Text to speech conversion using RapidAPI
 - Easy to use and customizable voice assistant
+- 
 # Installation
 Clone the repository:
 
