@@ -14,8 +14,8 @@ Install the required dependencies:
 pip install -r requirements.txt
 # Usage
 Add your ChatGPT API key and RapidAPI key to the config.py file:
-'''CHATGPT_API_KEY = "your_chatgpt_api_key"
-RAPIDAPI_KEY = "your_rapidapi_key" '''
+CHATGPT_API_KEY = "your_chatgpt_api_key"
+RAPIDAPI_KEY = "your_rapidapi_key"
 Run the main script:
 python main.py
 Speak your question when prompted and listen to the AI-generated response.
